@@ -1,0 +1,8 @@
+﻿  Source.cpp
+D:\Parallel computing\Lab9and10\Lab9and10\Source.cpp(38,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Parallel computing\Lab9and10\Lab9and10\Source.cpp(85,125): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Parallel computing\Lab9and10\Lab9and10\Source.cpp(95,119): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Parallel computing\Lab9and10\Lab9and10\Source.cpp(99,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Parallel computing\Lab9and10\Lab9and10\Source.cpp(113,124): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Parallel computing\Lab9and10\Lab9and10\Source.cpp(123,126): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Lab9and10.vcxproj -> D:\Parallel computing\Lab9and10\x64\Debug\Lab9and10.exe
